@@ -1,6 +1,6 @@
 import os
 
-restaurantes = ['Pizza', 'Sushi']
+restaurantes = ['Pizza', 'Sushi'}
 
 def exibir_nome_do_programa():
     print('𝕊𝕒𝕓𝕠𝕣 𝔼𝕩𝕡𝕣𝕖𝕤𝕤\n')
